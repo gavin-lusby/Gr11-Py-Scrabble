@@ -1,0 +1,124 @@
+SCRABBLE RULES/HOW TO PLAY
+
+1. General
+
+	- Scrabble can be played with two, three, or four players
+	
+	- The objective of the game is to get the most points by using letter tiles to form 
+		horizontal or vertical English words that are attached to existing words, all while
+		taking advantage of letter tile values, existing words, and Word Premiums / 
+		Letter Premiums
+	
+	- During a turn, you may choose to place one or more tiles, or swap one or more tiles
+		for new tiles, however you cannot do both
+		
+	- Any tiles replaced for swapping or placing letters are only replaced at the beginning of 
+		next turn
+	
+	- There are one hundred tiles to begin with, of which each player gets seven to start
+	
+	- There is a predetermined amount of each letter tile
+	
+	- Words are only 2-8 letters in this version
+		
+
+2. Placement
+	
+	- The very first tile of the game must be in the center
+	
+	- You may only create horizontal and vertical words, not diagonal words
+	
+	- The first word created in the game must cross over center, and must be at least 2 
+	characers long
+	
+	- Every tile except the first tile of the game must be placed adjacent to an existing tile
+	
+	- Once you have placed the first tile of your turn, you may only place subsequent tiles 
+		adjacent to it, or on the other side of a word from it
+			
+	- Once you have placed the second tile of your turn, you are locked to any reachable tiles
+		in that row/column(whether it's row or column depends on where your first tile 
+		was relative to the second one)
+		
+	- If you place a blank tile you can choose any letter for it to become
+	
+	- If you place a blank tile, the square will become purple at the end of the turn to
+		indicate to players that it is a blank
+		
+3. Scoring
+
+	- Each letter tile has a predetermined score
+
+	- All words created/added to in any turn must create new words, otherwise they are 
+		invalid
+	
+	- If you end your turn with any invalid words on the board, you will be forced to restart
+		your turn
+	
+	- You will receive full points from any words you create/add to during a given turn, even 
+		if there are multiple
+		
+	- Letter Premium tiles(tiles that say DL or TL) are tiles that give you double or triple 
+		point value for the specific letter tile on it
+		
+	- Word Premium tiles(the center tile, and tiles that say DW or TW) are tiles that give you 
+		double or triple point value for any word that crosses over it
+		
+	- Letter Premiums are added to score before Word Premiums
+	
+	- Word Premiums stack multiplicatively with each other
+	
+	- The middle spot applies a Double Word Premium(for the first word of the game)
+
+	- Once a turn is completed where a Premium Tile is used, that tile loses it's Word 
+		Premium / Letter Premium bonus
+		
+	- If a player uses seven tiles in one turn, they are granted fifty points in addition to
+		the points they received that turn
+	
+	- Blank Tiles have no value at any point in the game, even if placed in a previous turn
+	
+	- If you have a Blank Tile on a Word Premium, you will still get the word premium, it 
+		just won't apply to the blank tile because the blank's value is zero
+		
+4. Game Ending
+
+	- There are two ways the game can end, both once the bag of tiles is empty:
+		1. When a single player uses all of their tiles
+		2. When all players consecutively skip a turn
+	
+	- In the event that the game ends in the first way, the player who ran out of tiles adds
+		the sum of the point values of every other player's remaining tiles to their score,
+		while the other players subtract the sum of the point values of their remaining 
+		tiles from their own score
+	
+	- In the event that the game ends in the second way, all players subtract the sum of the
+		point values of their remaining tiles from their own score
+		
+5. Win Conditions:
+
+	- At the end, the player with the most points wins, however, if multiple players are tied 
+		for first place, the winner is determined by the amount of points the each player 
+		had before the endgame points were taken/given to them
+			- If the players score is STILL equal, it is an Absolute Tie
+			
+6. Misc
+
+	- You will know how many tiles are left in the bag at the beginning of your turn. However,
+		it may be misleading, because between this turn and your next turn, all other 
+		players will draw new tiles at the beginning of their turns depending on how 
+		many they are missing(rather than at the end of the turn)
+			- This means that for example, if there are fifty tiles left in the bag, 
+			and it is Player One's turn, if Player One uses all seven of their tiles, 
+			there will still be fifty tiles in the bag until Player One's next turn
+	
+	- Once you hit "End Turn", the next player (it will say who at the top) should take control
+		of the computer and hit "Continue"
+			- This is to prevent players from seeing each other's tiles
+			
+	- You may click "Restart Turn" to undo any changes made during that turn, including tile
+		swaps, and tile placements
+
+
+
+Written by Gavin Lusby
